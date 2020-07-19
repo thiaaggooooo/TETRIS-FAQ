@@ -1,46 +1,47 @@
 ---
 id: intro
-title: Introduction
+title: Introdução
 ---
 
 
 :::tip
 
-**If you don't want to read, you can consider purchasing personalized coaching from me**. ~~USD$ 35.00/hr~~ USD$ 30.00/hr (limited time sale while offers last). Message [winterNebs#2995 on discord](http://fourwi.de)
+**Se você não quiser ler, considere comprar ensino pessoal por mim.**. ~~USD$ 35.00/hr~~ USD$ 30.00/hr (Desconto limitado enquanto as ofertas durarem). Contate [winterNebs#2995 no Discord](http://fourwi.de)
 
 :::
 
 :::note
 
-**[Find a mistake or want to add something? Contribute on github](https://github.com/winterNebs/TETRIS-FAQ/)**
+**[Achou algum erro ou quer adicionar algo? Contribua no github](https://github.com/winterNebs/TETRIS-FAQ/)**
 
 :::
 
-## How to ask a good question
+## Como fazer uma boa pergunta
 
-1. Read the FAQ first
-2. Try to think about your question before you ask it.
-   1. Understand that people are taking time out of **their day** to **help you**. 
-   2. Try and phrase your question in a way that makes it **easier for the person answering**.
-      1. Try and **be as specific** as you can. (This does not mean write as much as you can).
-      2. **Be clear**. It only slows down the process if people have to repeatedly ask for more detail or clarification. You don't want to waste the time of people trying to help you
-      3. **Think** about what you are trying to ask for a bit, that way you can formulate a better question.
-   3. Try and figure it out yourself, before asking.
-      1. The best way to learn something is figuring it out yourself.
-      2. It's easier to confirm something is right than to explain it from scratch.
-      3. If it's gameplay related, try recording and watching yourself. 
-      4. check FAQ
+1. Leia o FAQ primeiro.
+2. Tente pensar sobre a sua pergunta antes de perguntá-la.
+   1. Entenda que quem está te ajudando está tirando o tempo do **seu dia** pra **ajudá-lo**.
+   2. Tente formular a sua pergunta de maneira que deixe **mais fácil para a pessoa te responder**.
+      1.  Tente ser **o mais específico possível**. (Isso não quer dizer que você deve escrever o máximo possível).
+      2. **Seja claro**. Só faz o processo mais lento se a pessoa te respondendo tiver que repetidamente perguntar por mais detalhes. Você não quer desperdiçar o tempo de quem está tentando te ajudar.
 
-## How to answer questions
+      3. **Pense** sobre o que você está tentando perguntar por um momento, dessa maneira você pode formular uma melhor pergunta.
+   3. Tente achar a resposta você mesmo, antes de perguntar.
+      1. A melhor maneira de aprender algo é entendê-lo sozinho.
+      2. É mais fácil confirmar se algo é correto do que explicar isso do princípio.
+      3. Se é algo relacionado a gameplay, tente gravar você mesmo e assistir depois.
+      4. Verifique o FAQ.
 
-1. The goal here is to **minimize misinformation**
-   1. Make sure you **know** what you are **qualified** to talk about.
-   2. Make sure you are **able to explain** **what** you are saying and **why**, otherwise you might not have a complete understanding of it. 
-   3. Know what you *don't know*, if you don't know what you don't know, you're more likely to mislead people.
-   4. Think before you answer, if you don't know the answer, don't say anything. It's ok to be wrong, but not to mislead others. 
+## Como responder uma pergunta
 
-## Where to ask questions
+1. O objetivo aqui é **minimizar a desinformação**.
+   1. Certifique-se de que você sabe o que você é qualificado pra falar sobre.
+   2. Tenha certeza de que você **é capaz de explicar** o que você vai falar e o **porquê**, do contrário você pode não ter um entendimento completo sobre o assunto. 
+   3. Identifique suas limitações; se você não indentificá-las, tem mais chances de disseminar ideias errôneas.
+   4. Pense antes de você responder; se você não sabe ou não tem a resposta não fale nada. É normal estar errado ou não saber algo, mas não dissemine ideias erradas para as outras pessoas.
+
+## Onde fazer as perguntas
 
 :::warning
-If you still have questions you can either purchase coaching, or join ***[fourwi.de](http://fourwi.de)*** and use the **#tetris-advice** channel!
+Se você ainda ter dúvidas você pode ou comprar o ensino pessoal, ou entrar no e usar o canal **#tetris-advice** 
 :::

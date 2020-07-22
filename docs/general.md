@@ -1,216 +1,210 @@
 ---
 id: general
-title: General Questions
+title: Perguntas Gerais
 ---
 
 :::tip
 
-**If you don't want to read, you can consider purchasing personalized coaching from me**. ~~USD$ 35.00/hr~~ USD$ 30.00/hr (limited time sale while offers last). Message [winterNebs#2995 on discord](http://fourwi.de)
+**Se você não quiser ler, considere comprar ensino pessoal por mim.**. ~~USD$ 35.00/hr~~ USD$ 30.00/hr (Desconto limitado enquanto as ofertas durarem). Contate [winterNebs#2995 no Discord](http://fourwi.de)
 
 :::
 
-## I'm a new player, where should I start?
+## Eu sou um jogador novo, onde eu deveria começar?
 
-If you are new to the game, play **marathon mode**, just try your best to survive. Tetris.com will work for this.
+Se você é novo para o jogo, jogue o modo maratona, só tente o seu melhor pra sobreviver. Tetris.com pode funcionar para isso.
 
-Once you are familiar with the game and its controls, try and complete a 40 line sprint using only Tetrises.  Make sure to use both clockwise and counter-clockwise.
+Agora que você está mais familiarizado com o jogo e os seus controles, tente completar uma corrida de 40 linhas usando somente Tetrises. Certifique-se de usar tanto a rotação horária quanto anti-horária.
 
-Once you can complete Tetris-only sprints consistently, try and lower your Tetris-only sprint to around 1:30 - 2:00 minutes. 
+Depois de conseguir completar corridas com somente Tetrises consistentemente, tente chegar até uma corrida de 1:30 a 2:00 minutos fazendo somente Tetrises 
 
-Once you've done that, you're now ready to play versus. 
+Uma vez que tenha feito isso, você está pronto para jogar versus.
 
-Hop into a versus game and good luck!
+Entre em um jogo versus e boa sorte!
 
-## Where do I find people to play against? 
+## Onde eu acho pessoas pra jogar contra?
 
-If your game has native matchmaking support, like tetr.io or puyo puyo tetris, you can use the matchmaking feature. Otherwise join the [Matchmaking Central (MMC)](https://discord.gg/yvUQwhq) discord, which has matchmaking based on skill level. 
+Se o seu jogo tem suporte nativo pra criação de partidas, como Tetr.io ou Puyo Puyo Tetris, você pode usar essa mecânica. Se não você pode entrar no discord Matchmaking Central, que tem criação de partidas baseado em habilidade (invite abaixo) o procurar oponentes em #partidas.
 
-## What communities should I join?
+## Quais comunidades eu deveria entrar?
 
-- Learn Tetris: [Check out the four wide discord server](http://fourwi.de/) 
-- Game specific communities:  [jstris](https://discord.gg/RcNFCZC), [tetrio](https://discord.gg/ufDb2XJ), [wwc](https://discord.gg/wwc), [king of stackers](https://discord.gg/hVsbAAC), [tds](https://discord.gg/KTN3rnw), salty cup? 
-- Specialized communities?  [T-Spins](https://discord.gg/JRCAQM5)
+- Aprenda tetris [Cheque o Servidor four wide](http://fourwi.de/) 
+- Comunidades de jogos  [jstris](https://discord.gg/RcNFCZC), [tetrio](https://discord.gg/ufDb2XJ), [wwc](https://discord.gg/wwc), [king of stackers](https://discord.gg/hVsbAAC), [tds](https://discord.gg/KTN3rnw), salty cup? 
+- Comunidades especiais  [T-Spins](https://discord.gg/JRCAQM5)
 - [Matchmaking Central (MMC)](https://discord.gg/yvUQwhq) 
 - [Why not hard drop?](hd)
 
-## Who to watch? 
+## Quem eu deveria assistir?
 
 - Puyo Puyo Tetris: [kazu](https://www.youtube.com/channel/UC4ldIp7QXgOObJ7QcvfIJpg), [amemiya](https://www.youtube.com/channel/UCHog7L3CzsDg2GH9aza1bPg)
-- Jstris: Look at leaderboards / [jstris cup?](https://www.youtube.com/watch?v=EcqhI5wtWLU&t=7651s)
-- Tetrio: ?? ?? ? ?? watch later part of [ggc?](https://www.twitch.tv/videos/643856954?t=04h16m43s)
+- Jstris: olhe para o ranking / [jstris cup?](https://www.youtube.com/watch?v=EcqhI5wtWLU&t=7651s)
 
-## What Tetris Resources are there? 
+## Quais bons recursos sobre Tetris eu posso usar?
 
-The only real good wiki in terms of accuracy for vs is [four.lol](https://four.lol/)
+A única wiki realmente boa em relação a precisão sobre versus é [four.lol](https://four.lol/)
 
-Here are some other wikis that you can look at if you're just interested in look at setups. 
+Aqui estão outras wikis você pode olhar se você quiser vêr setups. 
 :::warning
-Looking at setups is a noob trap, use at your own risk.
+Olhar setups pode ser uma armadilha para novos jogadores.
 :::
 
-Just look at the diagrams, it doesn't' matter if you can't read Japanese/Korean
+Só olhe para os diagramas, não importa se você não consegue ler japonês/koreano.
 
 - [tetrisopener.wicurio.com](https://tetrisopener.wicurio.com/index.php)
 - [atwiki tetrismaps](https://w.atwiki.jp/tetrismaps)
 - [list of looping openers](https://docs.google.com/spreadsheets/d/1NdmqvsA04lySuB6BLIwCr4aVrCOb2QtgO-839Oj-34k/htmlview)
 - [hd wiki](https://harddrop.com/wiki/Tetris_Wiki)
 
-## How do I get faster?
+## Como ficar mais rápido?
 
-Proper practice is key to improvement. **Don't feel discouraged** when you see people improving faster than you, you have to keep in mind the key factors to improvement:
+Prática é a chave para a melhoria. Não se sinta desencorajado quando você ver pessoas melhorando mais rápido que você, mantenha na cabeça os fatores principais pra melhoria:
 
-1. Time
-   - If you don't actually spend the time to play the game, and review your own gameplay, you will not be able to improve.
-2. Efficiency of practice
-   - Some ways of practicing make better use of your time than others. For example, someone who restarts sprint very frequently will get less practice per hour than someone who doesn't. 
+1. Tempo
+   - Se você não colocar tempo no jogo e ver os erros na sua jogatina, você não vai conseguir melhorar.
+2. Eficiência de treino.
+   - Algumas formas de treino usam o seu tempo de uma maneira melhor. Por exemplo, alguém que recomeça as corridas muito frequentemente vai melhorar menos em uma hora do que alguém que não faz isso.
 
-Keep in mind that there also is a difference between getting a new **personal best** and  **actually improving**. 
+Sempre tenha na cabeça que há uma diferença entre pegar um recorde pessoal e **realmente melhorar**.
 
-## How to stack?
+## Como stackar?
 
-The best way to learn how to stack is to play a lot, and to review your own gameplay and the gameplay of people much better than you. 
+A melhor maneira de aprender como stackar é jogar bastante, e rever criticamente os seus replays e de pessoas muito melhores que você.
 
-Experiment and try new things, and try to notice patterns. 
+Experimente, tente novas técnicas e perceba padrões. 
 
-You should have an intuitive understanding of how to stack, most specific guides and tutorials won't help, as it will limit your growth if you try to just "memorize" a list of setups. 
+Você deve formar um entendimento intuitivo de como stackar, guias específicos e tutoriais não vão ajudar muito, já que o seu crescimento vai ser limitado se você só tentar “memorizar” uma lista de setups.
 
-As a general rule of thumb: 
+Tenha por princípio:
 
-1. Do not make piece dependencies.
-2. Plan ahead and make use of your piece previews.
+1. Não crie dependências de peças.
+2. tenha uma ideia de onde colocar as peças baseado nas previews.
 
-## What controls should I use?
+## Quais controles eu deveria usar?
 
-Use what ever is comfortable :) 
+Use o que você acha confortável. 
 
-There are no "best controls"
+Não existe um “melhor controle”. 
 
-Some common layouts are:
+Alguns arranjos comuns são:
 
-| Default Tetris Friends          | ![](https://cdn.discordapp.com/attachments/574712820994670594/722598713654247434/ArisaIchigaya-keys.png) |
-| ------------------------------- | ------------------------------------------------------------ |
-| **Split Rotate and move**       | ![](https://cdn.discordapp.com/attachments/574712820994670594/722084902568198224/brian-keys.png) |
-| **Controller style (reversed)** | ![](https://cdn.discordapp.com/attachments/574712820994670594/722106363253358626/MdestTomato-keys.png) |
+| Padrão Tetris Friends:             | ![](https://cdn.discordapp.com/attachments/574712820994670594/722598713654247434/ArisaIchigaya-keys.png) |
+| ---------------------------------- | ------------------------------------------------------------ |
+| **Rotação e movimentos separados:**| ![](https://cdn.discordapp.com/attachments/574712820994670594/722084902568198224/brian-keys.png) |
+| **Estilo de controle (reverso)**   | ![](https://cdn.discordapp.com/attachments/574712820994670594/722106363253358626/MdestTomato-keys.png) |
 
 
 
-## What das/arr should I use?
+## Qual das/arr eu deveria usar?
 
-In games where you can customize arr and das, arr should be as low as possible (0 or 1). 
+Em jogos que você pode customizar arr e das, o arr deveria estar o menor possível, 0 ou 1. 
 
-To pick a das start around 130ms / 8F (some games use frames which are 16.66 ms) and then keep lowering it until you cannot control it.  
+Para escolher um das, comece perto de 130ms/8F (alguns jogos usam frames que são 16.66ms) e então comece a descer até você não conseguir controlar mais.
 
-Most players will be able to use a das below 130 ms. While it is possible to play at the top level with higher settings, you should not unless you absolutely have to.
+A maioria dos jogadores conseguem usar um das menor que 130ms. Enquanto é possível jogar em níveis altos com um das maior, você não deveria fazê-lo a não ser que absolutamente preciso.
 
-## What is finesse? Should I learn finesse?
+## O que é fineza? Eu deveria aprender fineza?
 
-Finesse is the method of placing a specific piece in a specific location with predetermined set of key inputs. 
+Fineza é o método de colocar diferentes peças em uma localização específica na matriz usando uma lista predeterminada de tecladas.
 
-There is a specific optimal sequence of inputs for every single placement in the game, this called perfect finesse / 2 step finesse.
+Existe uma sequência perfeitamente otimizada para todos os lugares que você pode colocar as peças, isso é chamado fineza perfeita ou fineza em 2 passos.
 
-People often mean "**Perfect Finesse**" or "2 step finesse", when they refer to finesse. 
+As pessoas vão comumente se referir a *fineza perfeita* ou “fineza em 2 passos” quando falam sobre fineza. 
 
-Lots of top players do not have "perfect finesse" but will still have a set way of placing pieces. 
+Muitos dos jogadores de alto nível não têm uma “fineza perfeita”, mas ainda têm uma noção da maneira de colocar as peças. 
 
-Whether you decide you want to use the most optimal set of sequences is up to you. (You should use both rotations though.)
+Se você decide usar a maneira mais otimizada possível depende de você. (Usar as duas rotações é preciso no entanto)
 
-## Should I learn 180 rotations?
+## Eu deveria aprender a usar rotações de 180°?
 
-If you want to. 
+Se você quiser.
 
-Learning to rotate clockwise and counter-clockwise is most important. 180 is extra if you want to, they don't exist in official games, however. 
+Aprender rotação horária e anti-horária é o mais importante. 180 é um extra, ele não existe em jogos oficiais contudo. 
 
-Some top players don't use 180, it doesn't make that big of a difference. 
+Alguns dos melhores jogadores não usam 180, isso não faz uma diferença tão grande. 
 
-## How many previews do I need to use?
+## Quantas previews eu deveria usar?
 
-In general you should use as many previews as the game allows you to use. Whether you're just checking previews for an upcoming piece or actually planning out all 5 pieces ahead of time. Most good players use all previews.
+Em geral você deveria usar quantas previews o jogo te deixa usar. Se você está usando somente pra checar por uma peça ou planejando todas as peças antes é pessoal, mas a maioria dos melhores jogadores usam todas as previews.
 
-## How do I use piece previews effectively? Dependencies?  
+## Como eu posso usar as previews efetivamente?
 
-To leverage piece previews effectively, you want to plan out your current placement in a way that accommodates your next pieces and avoids creating dependencies.
+Para usar as previews efetivamente, você quer colocar a peça atual de modo que as próximas peças sejam confortáveis e não criem dependências.
 
-Consider this field, with your current piece being an L. ![](https://i.imgur.com/pUNEyM7.png)
+Considere esse campo, com a sua peça atual sendo um L. ![](https://i.imgur.com/pUNEyM7.png)
 
-If your next piece is a Z, T, L you would probably place it like this ![](https://i.imgur.com/l4dRyP1.png)
+Se a sua próxima peça fosse um Z, um T ou um L você provavelmente colocaria as peças assim: ![](https://i.imgur.com/l4dRyP1.png)
 
-If your next piece is a J or I, you would probably place it like ![](https://i.imgur.com/6bwhytv.png)
+Se a sua próxima peça fosse um J ou um I, você provavelmente faria assim ![](https://i.imgur.com/6bwhytv.png)
 
-If your next pieces are S or O it depends on the rest of your field. 
+Se a sua próxima peça fosse um S ou um O vai depender do resto do seu campo. 
 
-## How to hold effectively? 
+## Como usar o hold efetivamente?
 
-Hold is used effectively in the following scenarios:
+O hold é usado efetivamente nos seguintes cenários:
 
-- Saving an I or a T piece 
-- When you cannot place your current piece in a good spot
-- When you require your held piece before your current piece
-- Stalling
+- Salvando um I ou um T.
+- Quando você não consegue colocar a peça atual em um bom lugar.
+-  Quando você precisa da peça no hold antes da atual.
 
-The biggest mistake people use hold for is to switch/shuffle the order of pieces, when the same placements are possible without holding.
+O maior erro que jogadores novos fazem é usar o hold para trocar a ordem das peças, enquanto as mesmas posições podiam ser alcançadas sem o hold.
 
-## Where do I look on the screen?
+## Onde eu olho na tela?
 
-Depends on what is most comfortable to you. Some people prefer to use their peripheral vision to look at the queue/piece preview, others will dart their eyes back and fourth. See what works best for you, and try resizing the game window if that helps.
+Depende o que é mais confortável para você. Algumas pessoas preferem usar a visão periférica para olhar para o preview, outros vão olhar pra um e depois para outro em um vai e volta. Veja o que funciona melhor para você, e tente mudar o tamanho da janela do jogo se isso te ajudar.
 
-## How to practice using... (both rotates, all previews, finesse, etc)?
+## Como eu treino usar... (duas rotações, usar as previews, fineza, etc)?
 
-Most of these "how do I practice doing x" or "how to practice using x" questions just come down to being disciplined.  To practice using all previews, slow down and look at them. To practice using both rotates, slow down and rotate both ways. There's not really any secret to it. 
+A maioria das perguntas de “como eu treino X” ou “como eu treino usar X” entram em ser disciplinado. Para praticar usar as previews, vá mais lento e olhe pra ela. Para praticar usar as duas rotações, vá mais lento e use as duas rotações. Não existe nenhum segredo realmente.
 
-## How to practice?
+## Como praticar?
 
-1. Play a lot 
-2. Review your own replays and replays of people better than you
-3. If you get stuck see FAQ or try and ask a good question or buy coaching from me for 30$/hr
+1. Jogue bastante.
+2. Reveja e critique seus próprios jogos e de pessoas muito melhores que você.
+3. Se você se sentir preso olhe para o FAQ ou tente perguntar pra alguém melhor que você nesse assunto.
 
-## Should I learn how to ST stack? 
+## Eu deveria aprender ST stacking?
 
-No. "Repeatable stacking patterns" are bad to rely on. 
+Não. “Setups de repetição” não são confiáveis em versus.
 
-If you insist on learning a pattern, learn the modern [LST stacking.](https://four.lol/stacking/lst)
+Se você insiste em aprender um padrão, aprenda o mais moderno [LST stacking.](https://four.lol/stacking/lst)
 
-Infinite stacking patterns like, ST, LST, infinite TST, are usually only good for the "Ultra" game mode. You will rarely have the opportunity to use them in versus.
+Padrões infinitos como, ST stacking, LST stacking, TST infinito, são normalmente inúteis fora do “Ultra”. Você vai muito raramente ter oportunidade de usá-los em versus.
 
-## How do I get better at Perfect Clears? Mid game PC?
+## Como ficar melhor em fazer Perfect Clears? PC no meio do jogo?
 
-[Here's some tips by some of the best people at PCs, JimothyJimothy and Cosin307](https://docs.google.com/document/d/1uhmsx4tPTQChV87JGa9nKma7CU4bSRgeEtctkxACeAE/edit)
+[Algumas dicas sobre Perfect Clears por algumas das melhores pessoas sobre PCs, Jimothy e Cosin307](https://docs.google.com/document/d/1uhmsx4tPTQChV87JGa9nKma7CU4bSRgeEtctkxACeAE/edit)
 
-As for mid game pcs, they are really rare and mostly luck, there is no way to get more lucky. 
+Sobre PCs no meio do jogo, eles são realmente raros e na maioria sorte, não existe nenhuma maneira de ter mais sorte. 
 
-## What is Parity? How do I learn Parity?
+## O que é Parity? Eu deveria aprender Parity?
 :::warning
-**TLDR**: Parity is a nerd trap.
+Parity pode ser muito complicado para jogadores novos e você só deve se preocupar com isso depois de ter o básico entendido.
 :::
-The use of parity in Tetris aims to solve the problem of "stacking" without holes. In reality just thinking about parity will not give you a conclusive answer as to whether a stack is good or not (ie. whether it is maintainable or has severe dependencies on certain pieces). It is still necessary to think about the dependencies themselves, thus making parity extra work for no reason. 
+O uso de Parity no Tetris serve pra resolver o problema de stackar sem buracos. Em realidade apenas pensando sobre Parity não vai te dar nenhuma resposta conclusiva sobre o estado de uma stack (ie. Se é sustentável ou se tem muitas dependências de peças especificas). Ainda é preciso pensar sobre as dependências em si, fazendo assim de Parity trabalho extra por nenhum motivo. 
 :::important
-**Almost no good players actually think about parity, they are just able to evaluate stacks intuitively and can visualize piece dependencies through practice.** 
+**Basicamente nenhum jogador bom realmente pensa sobre Parity, eles só sabem dar o valor pra stacks intuitivamente e conseguem visualizar dependências por prática.** 
 :::
-### Explanation:
+### Explicação:
 
-Parity is the mathematical concept of even/oddness. If you imagine a checkerboard pattern, you can see the "parity" of each piece by looking at the number of black and white squares it would occupy. ![](https://i.imgur.com/YKusYen.png) 
+Parity é um conceito matemático de igualdade ou desigualdade. Se você imaginar a matrix como um campo de xadrez, você pode ver o “Parity” de cada peça por olhar a quantidade de números de quadrados pretos e brancos que ele ocupa. ![](https://i.imgur.com/YKusYen.png) 
 
-So using this we can discover that all the pieces have even parity, except for the T piece, which has odd parity (3:1 ratio).
+Então usando isso nós podemos descobrir que todas as peças têm uma Parity igual, exceto o T, que tem uma desigualdade.).
 
  ![](https://i.imgur.com/Ez93rfD.png)
 
-So the only way to change the "parity" of a field in Tetris is either to use a T piece or to clear an odd number of lines. If you really can't help yourself but read more here is an article https://harddrop.com/wiki/Parity
+Então a única maneira de mudar o Parity de um campo é ou usar um T ou limpar um número ímpar de linhas. Se você realmente não conseguir se ajudar e quer ler mais sobre, aqui está um artigo: https://harddrop.com/wiki/Parity.
 
-### Conclusion
+## Esse setup tem um nome? Será que eu deveria nomear esse setup?
 
-Something about row parity ??
+Os setups mais úteis ou práticos já têm um nome e já foram descobertos. É comum pra novos jogadores quererem “inventar” algo para “fazer parte da história do tetris”, mas primeiro você deve avaliar se o seu setup sequer vale a pena olhar.
 
-## Does this setup have a name? Is this setup worth naming?
+Um bom setup tem normalmente as qualidades listadas:
 
-Most useful/practical setups have already been discovered. It is common for newer players to want to "invent" something to "become a part of Tetris history", but first you have to evaluate whether you setup is even worth looking at.
-
-A good setup is usually has the following qualities:
-
-1. It is a flexible shape/setup leading to it. Example of bad:
+1. Existe uma maneira simples e flexível de chegar no setup. Exemplo de algo ruim:
 
     ![](https://i.imgur.com/m0iaZmW.png)
 
-2. It is not a large commitment. An example of bad: 
+2.  Ele não requer um grande comprometimento. Exemplo de algo ruim:
 
 ![](https://i.imgur.com/aGaXGgc.png)
 
-There are 2<sup>20</sup> possible board states in Tetris (2<sup>40</sup> if you include the hidden rows), most of them are not worth naming. 
+Existem 2<sup>20</sup>  campos possíveis no Tetris, a maioria não vale a pena nomear. 

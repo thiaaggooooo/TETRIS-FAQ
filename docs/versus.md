@@ -1,29 +1,29 @@
 ---
 id: versus
-title: Versus Specific Advice
+Dicas específicas de versus
 ---
 
 :::tip
 
-**If you don't want to read, you can consider purchasing personalized coaching from me**. ~~USD$ 35.00/hr~~ USD$ 30.00/hr (limited time sale while offers last). Message [winterNebs#2995 on discord](http://fourwi.de)
+**Se você não quiser ler, considere comprar ensino pessoal por mim**. USD$ 35.00/hr USD$ 30.00/hr (Desconto limitado enquanto as ofertas durarem). Contate winterNebs#2995 no Discord
 
 :::
 
-## How do I play vs? What is good vs? What is efficiency? How do I get better?
+## Como eu jogo versus? O que é um bom versus? O que é eficiência? Como eu melhoro? 
 
-### Basic guideline rules
+### Regras básicas de guideline
 
-To be able to play any game well, you must first understand the rules. In 1v1 tetris, players send **garbage** to each other. 
+Para ser capaz de jogar qualquer jogo bem, você precisa primeiro entender as regras. Em tetris 1v1, os jogadores mandam **garbage** um para o outro.
 
-The amount of garbage depends on the type of attack. 
+A quantidade de garbage que é mandada é dependente do tipo de ataque. 
 
-| Type of attack        | Guideline games (PPT, Jstris, TOP)                      | Tetriomegalul                                                |
+| Tipos de ataque       | Jogos guideline (PPT, Jstris, TOP)                      | Tetr.io                                                      |
 | --------------------- | ------------------------------------------------------- | ------------------------------------------------------------ |
-| Single, Double Triple | `Lines cleared - 1`                                     | Same                                                         |
-| Tetris                | `4` (+1 with b2b)                                       | Same but there's back to back chaining for some reason       |
-| T-Spin                | `2 x lines cleared`(+1 with b2b)                        | Same but there's back to back chaining for some reason       |
-| Combo                 | `0,0,1,1,1,2,2,3,3,4,4,4,5` (stacks with other attacks) | [Uses unnecessarily complicated combo table](https://media.discordapp.net/attachments/673303546564968566/716080410702118922/2020-05-30_02-07-18.png) |
-| Perfect Clear         | `8`-`10` (depends on the game and rules)                | 10 and stacks with other attacks                             |
+| 1 Linha, 2 Linhas, 3 Linhas | `Linhas limpas -1`                                | O mesmo                                                      |
+| Tetris                | `4` (+1 com b2b)                                        | O mesmo mas existe corrente de b2b                           |
+| T-Spin                | `2 x linhas limpas`(+1 com b2b)                         | O mesmo mas existe corrente de b2b                           |
+| Combo                 | `0,0,1,1,1,2,2,3,3,4,4,4,5` (stacks with other attacks) | [Usa tabela de combos extremamente complexa](https://media.discordapp.net/attachments/673303546564968566/716080410702118922/2020-05-30_02-07-18.png) |
+| Perfect Clear         | `8`-`10` (depende do jogo e nas regras)                 | 10 e estaca com outros ataques                               |
 
 What we can takeaway from this is that singles send nothing, and short combos also barely send anything. 
 :::Note

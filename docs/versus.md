@@ -25,85 +25,83 @@ A quantidade de garbage que é mandada é dependente do tipo de ataque.
 | Combo                 | `0,0,1,1,1,2,2,3,3,4,4,4,5` (stacks with other attacks) | [Usa tabela de combos extremamente complexa](https://media.discordapp.net/attachments/673303546564968566/716080410702118922/2020-05-30_02-07-18.png) |
 | Perfect Clear         | `8`-`10` (depende do jogo e nas regras)                 | 10 e estaca com outros ataques                               |
 
-What we can takeaway from this is that singles send nothing, and short combos also barely send anything. 
+O que nós podemos perceber com essa tabela é que fazer 1 linha, 2 linhas, 3 linhas e combos pequenos não mandam praticamente nada. 
 :::Note
-The values for tetrio are roughly the same. Tetrio has more inflated attack values, but you can do this calculation yourself. 
+Os valores do Tetr.io são inflados, mas você consegue fazer essa conta por si mesmo. 
 :::
-### How to play efficiently 
+### Como Jogar eficientemente 
 
 
-### Attacking
+### Atacando
 
-Knowing how you can maximize your clears is important to playing efficiently.
-
-| Type of attack                  | Attack / Line                                             | Notes                                                        |
+Sabendo como maximizar o dano de suas limpezas é importante para jogar eficientemente.
+  
+| Tipos de ataque                 | Jogos guideline (PPT, Jstris, TOP)                        | Notas                                                        |
 | ------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------ |
-| Single, Double, Triple          | `0, 0.5, 0.67`                                            | As you can see singles literally do nothing                  |
-| Tetris                          | `1` or `1.25` with b2b                                    | Significantly better than above                              |
-| T-Spin (single, double, triple) | `2` , or (`3,2.5,2.33  `) with b2b                        | An improvement again                                         |
-| Combo                           | [Full calculations here](https://i.imgur.com/ROJFWrI.png) | Interesting breakpoints:<br />Anything under 5 combo is worse than a triple.<br />Aim for 7+ combo for good efficiency |
-| Perfect Clear                   | 10/???                                                    | Not reliable to execute in vs.                               |
+| 1 Linha, 2 Linhas e 3 Linhas    | `0, 0.5, 0.67`                                            | Como você pode ver esses ataques mandam basicamente nada     |
+| Tetris                          | `1` or `1.25` com b2b                                     | Significantemente melhor que o acima                         |
+| T-Spin (single, double, triple) | `2` , ou (`3,2.5,2.33  `) com b2b                         | Uuma melhora novamente                                       |
+| Combo                           | [Calculo completo aqui](https://i.imgur.com/ROJFWrI.png)  | pontos de paradas interessantes:<br />Qualquer coisa menor que um combo 5 é pior do que 3 linhas.<br />Mire para 7+ para uma eficiencia boa. |
+| Perfect Clear                   | 10/linhas usadas para o pc                                | Não dá garantia para versus                                  |
 
 :::note
 
-Technically b2b TSS is the most efficient but you are limited in the number of T pieces you have, so it is impossible to clear all lines with TSS , so if possible clearing a TSD or TST will give you more value for that piece.
+Tecnicamente b2b TSS é o ataque mais eficiente, mas como você tem um limite na quantidade de T’s que você pode ter é impossível limpar todas as linhas com somente TSS, então se possível limpar um TSD ou um TST vai dar mais valor para essa peça.
 
 :::
 
-### Defending
+### Defendendo
 
 :::note
 
-`Defend = Attack + Lines cleared`, since in most games you can use attack to cancel incoming garbage.
-
-This is still an oversimplification, as stated in the other note.
+`Defesa = Ataque + Linhas limpadas`, desde que na maioria dos jogos você consegue usar o ataque para cancelar o dano
+Isso ainda é somente uma simplificação
 
 :::
 
-| Type of attack                  | Defend / Line                                             | Notes                                                        |
+| Tipo de ataque                  | Defesa / Linhas                                           | Notas                                                        |
 | ------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------ |
-| Single, Double, Triple          | `1, 1.5, 1.67`                                            |                                                              |
-| Tetris                          | `4` or `4.5` with b2b                                     | Significantly better than above                              |
-| T-Spin (single, double, triple) | `3 ` , or (`4, 3.5, 3.33  `) with b2b                     | Notably worse than tetrises actually                         |
-| Combo                           | [Full calculations here](https://i.imgur.com/LSpG9gQ.png) | Interesting breakpoints:<br />Anything under 4 combo is worse than a triple.<br />High combo is best efficiency |
+| 1 Linha, 2 Linhas e 3 Linhas    | `1, 1.5, 1.67`                                            |                                                              |
+| Tetris                          | `4` ou `4.5` com b2b                                      | Significantemente melhor que o acima                         |
+| T-Spin (single, double, triple) | `3 ` , ou (`4, 3.5, 3.33  `) com b2b                      | Notavelmente pior que tetrises realmente                     |
+| Combo                           | [Calculo completo aqui](https://i.imgur.com/LSpG9gQ.png)  | Pontos de parada interessantes:<br />Qualquer coisa menor que um combo 4 é pior do que 3 linhas. <br />Combos grandes são as melhores eficiências | 
 
-### Conclusion
+### Conclusão
 
-Only combo when you have at least a 6 combo.
+Somente use combos quando ter um 6 ou maior.
 
-Your priority should be maintaining b2b with t-spins and tetrises when possible. 
+Sua prioridade deve ser manter o b2b com T-spins e Tetrises sempre que possível. 
 
-Breaking back to back to get another T-Spin double is not that bad actually, same with skimming to get a Tetris when defending. 
+Quebrar o b2b para fazer outro T-spin não é tão ruim realmente, o mesmo pode ser dito sobre skimar para fazer um Tetris quando defendendo. 
 
 
-
-## Openers
+## Aberturas
 
 :::important
-Learning openers is not as important as learning how to play the mid game. 
+Aprender entradas não é tão importante quanto aprender a jogar o meio de jogo. 
 :::
-An opener is just a transition from an empty board to mid game, don't focus on them too much until you are competent at mid game. You should never rely on openers to win games.
+Uma entrada é só uma transição entre um campo vazio para o meio de jogo, não foque em ela até que você seja competente no meio de jogo. Você nunca deve confiar somente na entrada para ganhar jogos.
 
-Beginners can opt for a simple tetris as their opener. 
+Iniciantes podem optar por um simples Tetris como sua abertura. 
 
-Openers are also dependent on the game. 
+Aberturas são também dependentes do jogo. 
 :::tip
-The most important opener to learn is TKI. https://four.lol/openers/tki
+A entrada mais importante para aprender é TKI. https://four.lol/openers/tki
 :::
 
-## What openers should I learn?
+## Quais entradas eu deveria aprender?
 
-**If you are unable complete a 40 line Tetris-only sprint in under 1:15 minutes (jstris/fast games) or 1:30 minutes Puyo Puyo Tetris (slow game) should focus on practicing that first.**
+*Se você ainda não é capaz de completar 40 linhas com somente tetris em menos de 1:15 minutos (jstris e outros jogos sem delay) ou 1:30 minutos em PUyo Puyo Tetris (jogos lentos) você deveria focar em praticar isso primeiro.**
 
-Here is a list of openers by importance (four wide is omitted in this section, to learn [more read the section on four wide](#four-wide-4-wide-4w-4-w-c4w-s4w-whatever-lol)) : 
+Aqui está uma lista das entradas por importância (4wide não é incluído nesta seção, para saber mais visite a seção sobre 4wide): 
 :::note
-this section will probably be split up by game later.
-TKI 3 and MKO will be best regardless of game, however
+Essa seção vai provavelmente ser dividida melhor depois. 
+TKI 3 e MKO no entanto são igualmente boas independente do jogo.
 :::
 
 :::warning
 
-This section is not as good as i would like it to be. I will probably update this with the openers you should use, in order of priority. TKI still best opener tho
+Essa seção ainda não é do meu gosto. Eu provavelmente irei atualizá-la com as entradas que você deve usar em ordem de importância. TKI é o mais importante do mesmo jeito.
 
 :::
 

@@ -19,7 +19,7 @@ A quantidade de garbage que é mandada é dependente do tipo de ataque.
 
 | Tipos de ataque       | Jogos guideline (PPT, Jstris, TOP)                      | Tetr.io                                                      |
 | --------------------- | ------------------------------------------------------- | ------------------------------------------------------------ |
-| 1 Linha, 2 Linhas, 3 Linhas | `Linhas limpas -1`                                | O mesmo                                                      |
+| 1 Linha, 2 Linhas e 3 Linhas | `Linhas limpas -1`                                | O mesmo                                                      |
 | Tetris                | `4` (+1 com b2b)                                        | O mesmo, mas existe corrente de b2b                           |
 | T-Spin                | `2 x linhas limpas`(+1 com b2b)                         | O mesmo, mas existe corrente de b2b                           |
 | Combo                 | `0,0,1,1,1,2,2,3,3,4,4,4,5` (stacks with other attacks) | [Usa tabela de combos extremamente complexa](https://media.discordapp.net/attachments/673303546564968566/716080410702118922/2020-05-30_02-07-18.png) |

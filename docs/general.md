@@ -4,7 +4,9 @@ title: Perguntas Gerais
 ---
 
 :::tip
+
 **Se você não quiser ler, considere comprar ensino pessoal por mim.**. ~~USD$ 35.00/hr~~ USD$ 30.00/hr (Desconto limitado enquanto as ofertas durarem). Contate [winterNebs#2995 no Discord](http://fourwi.de)
+
 :::
 
 ## Eu sou um jogador novo, onde eu deveria começar?

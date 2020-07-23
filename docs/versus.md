@@ -91,7 +91,7 @@ A entrada mais importante para aprender é TKI. https://four.lol/openers/tki
 
 ## Quais entradas eu deveria aprender?
 
-*Se você ainda não é capaz de completar 40 linhas com somente tetris em menos de 1:15 minutos (jstris e outros jogos sem delay) ou 1:30 minutos em PUyo Puyo Tetris (jogos lentos) você deveria focar em praticar isso primeiro.**
+**Se você ainda não é capaz de completar 40 linhas com somente tetris em menos de 1:15 minutos (jstris e outros jogos sem delay) ou 1:30 minutos em PUyo Puyo Tetris (jogos lentos) você deveria focar em praticar isso primeiro.**
 
 Aqui está uma lista das entradas por importância (4wide não é incluído nesta seção, para saber mais visite a seção sobre 4wide): 
 :::note
@@ -126,31 +126,31 @@ Essa seção ainda não é do meu gosto. Eu provavelmente irei atualizá-la com 
 
 *SZ base DT cannon ![](https://i.imgur.com/4mszRhq.png)
 
-## Is the opener I made good?
+## A abertura que eu fiz é boa?
 
-Short answer: no
+Resposta curta: Não.
 
-Long answer: Depends on a few factors, but most good openers have already been discovered. 
+Reposta longa: Depende em alguns fatores, mas a maioria das melhores aberturas já foram descobertas. 
 
-1. If your opener uses a T piece in stack it is already bad.
-2. If your opener has a very low success chance it is bad.
-3. If your opener does not send at least 9 with the first 2 t pieces its most likely bad. 
+1. Se a sua abertura já tinha um T na stack ele já é ruim. 
+2. Se a sua abertura não tem muita chance de sucesso ela é ruim. 
+3. Se a sua abertura não mande pelo menos 9 com as primeiras 2 peças T ela é provavelmente ruim.
 
 ![](https://cdn.discordapp.com/attachments/567880609653981185/722220173280673814/unknown.png)
 
-## What setups should I learn?
+## Quais setups eu devo aprender?
 
-**If you are unable complete a 40 line Tetris-only sprint in under 1:15 minutes (jstris/fast games) or 1:30 minutes Puyo Puyo Tetris (slow game) should focus on practicing that first.**
+**Se você ainda não é capaz de completar 40 linhas com somente tetris em menos de 1:15 minutos (jstris e outros jogos sem delay) ou 1:30 minutos em PUyo Puyo Tetris (jogos lentos) você deveria focar em praticar isso primeiro.**
 
-Once you can do that consistently, learn basic t-spins, [check out garbo's tspin guide (the first part)](https://www.youtube.com/watch?v=FI39WJqTLvA)
+Uma vez que você possa fazer isso consistentemente, aprenda t-spins básicos, [cheque o tutorial do garbo sobre t spins (a primeira parte)](https://www.youtube.com/watch?v=FI39WJqTLvA)
 
-More advanced techniques (or "setups") would be t-spin forecasting, floating tspins and donated tspins. (expand later) https://four.lol/mid-game/donation https://four.lol/methods/stmb
+Mais tecnicas avançadas (ou "setups") seriam a previsão de overhang para t-spins, floating tspins e donated tspins. https://four.lol/mid-game/donation https://four.lol/methods/stmb
 
-[Check out the t-spin guide](https://winternebs.github.io/TETRIS-FAQ/tspin)
+[Cheque o tópico de t-spins](https://winternebs.github.io/TETRIS-FAQ/tspin)
 
-## PCO? Perfect Clear Opener? Should I learn perfect clears?
+## PCO? Perfect Clear Opener? Eu deveria aprender Perfect Clears?
 
-Short answer: no
+Resposta curta:Não.
 
 Long answer: PCO is a popular opener but is a very common noob trap. Lots of people use PCO because it is easy to setup, **not because they can reliably execute it**. 
 
